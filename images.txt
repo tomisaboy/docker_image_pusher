@@ -5,7 +5,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-infinilabs/console:1.29.8
-elasticsearch:9.0.3
-rabbitmq:4.1.2-management
-nginx:1.28.0
+#infinilabs/console:1.29.8
+#elasticsearch:9.0.3
+#rabbitmq:4.1.2-management
+#nginx:1.28.0
+
+docker.elastic.co/elasticsearch/elasticsearch-wolfi:9.1.0
