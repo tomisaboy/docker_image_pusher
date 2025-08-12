@@ -10,4 +10,5 @@
 #rabbitmq:4.1.2-management
 #nginx:1.28.0
 
-docker.elastic.co/kibana/kibana:9.0.3
+#docker.elastic.co/kibana/kibana:9.0.3
+pivotalrabbitmq/perf-test:latest
